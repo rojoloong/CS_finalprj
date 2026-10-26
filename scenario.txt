@@ -1,0 +1,17 @@
+MAP:
+A B 2
+B C 3
+A D 4
+D C 2
+B D 1
+
+DEPOT:
+A
+
+DELIVERIES:
+B:Documents to B
+C:Package to C
+D:Food delivery to D
+
+COURIERS:
+2

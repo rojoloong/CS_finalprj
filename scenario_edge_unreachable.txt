@@ -1,0 +1,13 @@
+MAP:
+A B 2
+B C 3
+
+DEPOT:
+A
+
+DELIVERIES:
+C:Reachable package
+X:Unreachable package
+
+COURIERS:
+1

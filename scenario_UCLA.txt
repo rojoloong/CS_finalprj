@@ -1,0 +1,26 @@
+MAP:
+Ackerman Royce 3
+Ackerman Eng 4
+Royce Powell 2
+Powell Young 3
+Eng Boelter 2
+Eng Pauley 4
+Boelter Pauley 3
+Boelter Young 4
+Royce Kerckhoff 3
+Kerckhoff Young 2
+
+DEPOT:
+Ackerman
+
+DELIVERIES:
+Powell:Deliver textbooks to Powell Library
+Boelter:Drop off CS homework at Boelter Hall
+Pauley:Event equipment to Pauley Pavilion
+Young:Mail to Young Research Library
+Kerckhoff:Flyers to Kerckhoff Hall
+
+COURIERS:
+3
+
+
